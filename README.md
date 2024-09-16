@@ -6,7 +6,7 @@
 
 I'm Wassim MAZOUZ, a final-year engineering student at [Centrale Lyon](https://www.ec-lyon.fr/en) studying Mathematics and Risk Engineering (option [MIR](https://www.ec-lyon.fr/formation/ingenieure-generaliste/programme-formation/parcours-electif/offre-formation-parcours?module=2631437)). In parallel, I am following the [GRAF](https://isfa.univ-lyon1.fr/formation/econometrie-statistiques/programme-du-parcours-graf) program at [ISFA](https://isfa.univ-lyon1.fr/).
 
-I'm currently an intern at the [OCKHAM](https://team.inria.fr/ockham/team-members/) Team working on benchmarking of optimization algorithms with the [Benchopt](https://benchopt.github.io/) framework.
+I was previously an intern at the [OCKHAM](https://team.inria.fr/ockham/team-members/) Team working on benchmarking of optimization algorithms with the [Benchopt](https://benchopt.github.io/) framework.
 
 I'm a passionate student with an interest in machine learning, finance, and problem-solving. Whether it's optimizing algorithms or developing new tools, I thrive on tackling complex problems.
 
