@@ -2,14 +2,18 @@
 
 # Hello there!
 
+[![Website](https://img.shields.io/badge/Website-wassimmazouz.vercel.app-b47825?style=flat-square&logo=vercel&logoColor=white)](https://wassimmazouz.vercel.app)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-wassimmazouz-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/wassimmazouz/)](https://www.linkedin.com/in/wassimmazouz/)
 
-I'm **Wassim MAZOUZ**, a graduate engineer from [École Centrale de Lyon](https://www.ec-lyon.fr/en) with a Master's in **Mathematics and Quantitative Finance** from [ISFA](https://isfa.univ-lyon1.fr/).  
+I'm **Wassim MAZOUZ**, an **AI Consultant and Forward-Deployed Engineer** at **Wavestone** in Paris, where I build and evaluate **LLM agents** for a corporate & investment banking client's AI Lab.
 
-I recently completed an internship as an **AI & Quantitative Research Intern** at **BNP Paribas Global Markets - Data & AI Lab** in Frankfurt, where I worked on **deep learning models for hedging with high-frequency data**.  
+I'm a graduate engineer from [École Centrale de Lyon](https://www.ec-lyon.fr/en) with a Master's in **Quantitative Finance** from [ISFA](https://isfa.univ-lyon1.fr/).
 
-Previously, I was a **Machine Learning Research Intern** at the [OCKHAM](https://team.inria.fr/ockham/team-members/) Team at ENS Lyon, enhancing the [Benchopt](https://benchopt.github.io/) framework for benchmarking optimization algorithms, and a **Student Researcher** at **LIRIS Laboratory**, developing generative models for image synthesis with **VQ-VAE**.  
+Before that, I was:
+- an **AI & Quantitative Research Intern** at **BNP Paribas CIB – Global Markets Data & AI Lab** in Frankfurt, working on **deep hedging with high-frequency data**;
+- a **Machine Learning Research Intern** in the [OCKHAM](https://team.inria.fr/ockham/team-members/) team at ENS Lyon · INRIA, contributing to the [Benchopt](https://benchopt.github.io/) benchmarking framework;
+- a **Student Researcher** at **LIRIS**, building generative models for map synthesis with **VQ-VAE** and Wave Function Collapse.
 
-My interests span **quantitative research, machine learning, and data science** - applying rigorous mathematics, optimization, and programming to solve real-world challenges in finance and beyond.  
+Some projects: [CDS pricing](https://github.com/wassimmazouz/CDS-pricing) · [VQ-VAE × WFC](https://github.com/wassimmazouz/VQ-VAE-Wave-Function-Collapse-Map-Synthesizer) · [2048 in C++/Qt6](https://github.com/wassimmazouz/2048-cpp) · [Benchopt](https://github.com/benchopt/benchopt)
 
-Feel free to explore my repositories, connect with me, or collaborate on exciting projects!
+More on my website: **[wassimmazouz.vercel.app](https://wassimmazouz.vercel.app)**.
